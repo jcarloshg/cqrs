@@ -9,6 +9,9 @@
 
 This is a template project using Node.js and TypeScript, following a hexagonal architecture.
 
+- 🏗️ Clean Architecture, 🛑 Domain Driven Design, ✅ Validation, 🚨 Exception Handling
+- 🐳 Docker, 🟦 TypeScript, 📦 Node.js, 📄 Express (assumed from structure), 🗄️ CQRS Pattern, 📚 Documentation, 🧪 Unit Testing (potential, not explicit), 🔧 Environment Variables
+
 ## 📄 Project Information
 
 - **Name:** hexagonal-templeate
